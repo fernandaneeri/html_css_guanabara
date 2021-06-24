@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(43, 43, 43);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
